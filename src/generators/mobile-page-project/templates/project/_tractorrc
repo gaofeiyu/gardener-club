@@ -1,0 +1,4 @@
+{
+    "version": "<%= tractorInfo.version %>",
+    "framework": "<%= framework %>"
+}
